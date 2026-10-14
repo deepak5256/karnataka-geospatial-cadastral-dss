@@ -123,9 +123,10 @@ Pixels classified as Cloud Medium Probability (8), Cloud High Probability (9), T
 ## 🚀 Quick Start Guide
 
 ### Option A: Run Live on Kaggle Cloud (Zero Local Installation)
-1. Open the verified Kaggle Kernel: **[Karnataka Geospatial LULC DSS on Kaggle](https://www.kaggle.com/code/deepak5256/karnataka-geospatial-lulc-dss)**
-2. Click **Copy & Edit**.
-3. Select **Run All** to execute the complete verification run for *Kanakana Maradi, Pandavapura, Mandya*.
+1. **Access Dataset**: **[Karnataka GeoSpatial LULC & Drought DSS on Kaggle](https://www.kaggle.com/datasets/deepakb5256/karnataka-geospatial-dss)** (28,720 indexed revenue villages, Survey of India boundaries, DES crop statistics, and KSNDMC telemetry).
+2. **Open Notebook**: **[Karnataka Cadastral Agricultural Intelligence DSS on Kaggle](https://www.kaggle.com/code/deepakb5256/karnataka-cadastral-agricultural-intelligence-dss)**.
+3. Click **Copy & Edit**.
+4. Select **Run All** to execute the complete verification run for *Kanakana Maradi, Pandavapura, Mandya*.
 
 ### Option B: Run Locally via Jupyter Notebook
 
